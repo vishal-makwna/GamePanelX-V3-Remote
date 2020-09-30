@@ -1,4 +1,4 @@
-THIS PROJECT IS NO LONGER ACTIVELY MAINTAINED.
+THIS PROJECT IS NO LONGER ACTIVELY MAINTAINED. it was a cool
 
 Unfortunately I lack the time to work on this anymore.  It hurts/sucks to say that since this project has been a huge passion of mine since I started it.  If someone is interested in taking the project over I may be open to that given the right skillset. -Ryan
 
@@ -27,7 +27,7 @@ To update, run:
 # sudo ./update.sh
 
 Note: To update a Remote release _older_ than 3.0.10, run:
-# sudo chmod u+x upgrade_309_3012.sh
+# sudo chmod u + x upgrade_309_3012.sh
 # sudo ./upgrade_309_3012.sh
 
 
